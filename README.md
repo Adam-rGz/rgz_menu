@@ -20,3 +20,4 @@ Rquire pNotify, or just change line 56 in rgz_meu.lua
    
     
     
+more info at https://discord.gg/H4NavMDSHb
